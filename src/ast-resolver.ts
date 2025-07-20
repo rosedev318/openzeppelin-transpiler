@@ -1,4 +1,5 @@
 import { ContractDefinition } from 'solidity-ast';
+
 import {
   astDereferencer,
   ASTDereferencer,
